@@ -11,6 +11,9 @@
 - 📫 How to reach me **samrajyabahadurchand@gmail.com**
 
 - ⚡ Fun fact **...**
+  <h3 align="left">
+    Projects:</h3>
+- crypto trading app https://react-crypto-k2hpsrm4h-therealsamrajya.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
