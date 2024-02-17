@@ -14,6 +14,7 @@
   <h3 align="left">
     Projects:</h3>
 - crypto trading app https://react-crypto-k2hpsrm4h-therealsamrajya.vercel.app/
+- react-portfolio https://portfolio-react-samrajya.vercel.app/#testimonials
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
