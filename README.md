@@ -16,6 +16,7 @@
 - crypto trading app https://react-crypto-k2hpsrm4h-therealsamrajya.vercel.app/
 - react-portfolio https://portfolio-react-samrajya.vercel.app/#testimonials
 - joytown(simple project) https://joytown-o9vc7280m-therealsamrajya.vercel.app/
+- nepal jabas (js-project) https://nepal-jabas.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
