@@ -6,16 +6,16 @@
 
 - 🌱 I’m currently learning **leaflet,bootstrap,react**
 
-- 💬 Ask me about **js,html,leaflet**
+- 💬 Ask me about **js,html,leaflet,react**
 
 - 📫 How to reach me **samrajyabahadurchand@gmail.com**
 
 - ⚡ Fun fact **...**
   <h3 align="left">
     Projects:</h3>
-- crypto trading app https://react-crypto-k2hpsrm4h-therealsamrajya.vercel.app/
-- react-portfolio https://portfolio-react-samrajya.vercel.app/#testimonials
-- joytown(simple project) https://joytown-o9vc7280m-therealsamrajya.vercel.app/
+- crypto trading app https://react-crypto-app-sigma-five.vercel.app/
+- react-portfolio https://portfolio-react-samrajya.vercel.app/
+- joytown(reactjs project) https://joytown.vercel.app/
 - nepal jabas (js-project) https://nepal-jabas.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
