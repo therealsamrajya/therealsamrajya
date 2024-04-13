@@ -17,6 +17,7 @@
 - react-portfolio https://portfolio-react-samrajya.vercel.app/
 - joytown(reactjs project) https://joytown.vercel.app/
 - nepal jabas (js-project) https://nepal-jabas.vercel.app/
+- Vastra (ecommerce home page ) https://vastra-teal.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
