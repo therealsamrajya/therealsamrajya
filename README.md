@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **samrajyabahadurchand@gmail.com**
 
-- ⚡ Fun fact **...**
   <h3 align="left">
     Projects:</h3>
 - crypto trading app https://react-crypto-app-sigma-five.vercel.app/
