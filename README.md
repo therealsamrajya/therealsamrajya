@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therealsamrajya&label=Profile%20views&color=0e75b6&style=flat" alt="therealsamrajya" /> </p>
 
-- 🌱 I’m currently learning **expressjs,mongodb,react**
+- 🌱 I’m currently learning **react native**
 
-- 💬 Ask me about **js,html,leaflet,react**
+- 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **samrajyabahadurchand@gmail.com**
 
